@@ -33,6 +33,7 @@ int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int) {
 		/// ↓描画処理ここから
 		///
 		Novice::ScreenPrintf(0, 0, "GitTest2");
+		Novice::ScreenPrintf(0, 0, "playerの移動処理");
 		///
 		/// ↑描画処理ここまで
 		///
