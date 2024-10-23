@@ -34,7 +34,7 @@ int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int) {
 		///
 		Novice::ScreenPrintf(0, 0, "GitTest2");
 		Novice::ScreenPrintf(0, 0, "playerの移動処理");
-		Novice::ScreenPrintf(0, 0, "pullRequest");
+		Novice::ScreenPrintf(0, 0, "pullRequest作業");
 		Novice::ScreenPrintf(0, 0, "Conflict");
 		///
 		/// ↑描画処理ここまで
